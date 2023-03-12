@@ -1,3 +1,5 @@
 # Table of contents
 
-* [Page](README.md)
+## 平行程式設計
+
+* [初探平行程式設計](README.md)
